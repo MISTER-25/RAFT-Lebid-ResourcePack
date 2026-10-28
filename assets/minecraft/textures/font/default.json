@@ -1,0 +1,17 @@
+{
+  "providers": [
+    {
+      "type": "reference",
+      "id": "minecraft:include/default"
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/lebid_icons.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": [
+        ""
+      ]
+    }
+  ]
+}
